@@ -47,3 +47,6 @@ videoclip_3.write_videofile("./output/mxc.mp4", audio_codec="aac")
 
 
 到这里，本地安装个人版蚂蚁呀嘿就完成啦
+
+*** 安装环境：Windows 10, Python 3.7.5, Git Bash***
+***飞桨环境需要预先安装： pip install paddlepaddle***
