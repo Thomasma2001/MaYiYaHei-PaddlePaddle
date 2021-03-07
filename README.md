@@ -6,13 +6,13 @@ git clone https://gitee.com/paddlepaddle/PaddleGAN
 
 2.安装所需安装包
 
-cd PaddleGAN/
+cd PaddleGAN
 
 pip install -r requirements.txt
 
 3.创建一个输出文件的存放目录
 
-cd applications/
+cd applications
 
 mkdir output
 
