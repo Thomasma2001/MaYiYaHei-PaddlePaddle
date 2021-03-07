@@ -50,4 +50,4 @@ videoclip_3.write_videofile("./output/mxc.mp4", audio_codec="aac")
 
 *** 安装环境：Windows 10, Python 3.7.5, Git Bash***
 
-***飞桨环境需要预先安装： pip install paddlepaddle***
+！！！飞桨环境需要预先安装： pip install paddlepaddle
